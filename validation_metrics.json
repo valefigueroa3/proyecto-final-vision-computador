@@ -1,0 +1,11 @@
+{
+  "accuracy_lbp_svm": 0.5766423357664233,
+  "f1_lbp_svm": 0.5798068403331561,
+  "mejores_parametros_svm": {
+    "C": 0.01
+  },
+  "accuracy_cnn": 0.9343065693430657,
+  "f1_cnn": 0.9327574525745258,
+  "mejor_accuracy_validacion_cnn": 0.9666666388511658,
+  "epocas_cnn": 10
+}

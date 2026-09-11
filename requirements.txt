@@ -1,0 +1,10 @@
+numpy==2.4.2
+pandas==3.0.1
+matplotlib==3.10.8
+Pillow==12.1.1
+opencv-python==5.0.0.93
+scikit-image==0.26.0
+scikit-learn==1.8.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0+cpu
+torchvision==0.29.0+cpu
