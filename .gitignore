@@ -1,0 +1,10 @@
+# Datos y pesos descargados
+dataset_plant_disease/
+torch_cache/
+cache_*.npz
+cache_*.pt
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
